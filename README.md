@@ -8,7 +8,12 @@ the video stream from a static camera and should be able to:
 a) classify road lanes as being
 occupied or not given a video frame; 
 
+![Project Logo](02.png)
+
+
 b) track a specific vehicle in a given video;
+
+![Project Logo](01.png)
 
 ## Key Features
 Task 1: Vehicle Detection
